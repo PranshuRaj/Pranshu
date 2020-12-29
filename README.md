@@ -1,12 +1,11 @@
 # Pranshu
 
-import psutil  # (pip install psutil)
+import psutil  
 
-import pygame  # (pip install pygame)
+import pygame  
 
 pygame.mixer.init()
-'''You can change the audio just by exchanging the new audio and rename audio file to python audio
-or just change the name of the song below to the new one'''
+
 pygame.mixer.music.load("python audio.mpeg")
 
 
