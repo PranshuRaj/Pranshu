@@ -8,11 +8,9 @@ HI There, I am Pranshu Raj !!
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<i class="fab fa-blogger"></i>
-<br />
-<br />
+
+<div style='width: 200px;'>
+<i class='fab fa-blogger fa-pull-right fa-3x'></i>
 
 
-[instagram]: https://instagram.com/pranshu_raj12
 [blogger]: http://pranshuraj12.blogspot.com
