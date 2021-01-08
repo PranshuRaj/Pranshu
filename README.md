@@ -5,6 +5,12 @@ HI There, I am Pranshu Raj !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+## About This Project
+In this post, I am going to upload a quiz based on Sikkim(random topic).
+I tried to do it as simply as I can, I used basic file handling, random function, and python pattern design.
+
+Hope You all like it
+
 ### Connect with me:
 
 
